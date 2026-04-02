@@ -1,30 +1,51 @@
-### Hi there 👋 I'm Nedim
+# Hey, I'm Nedim 👋
 
-🎓 I'm a student at the Faculty of Transport and Communications in Sarajevo.  
-💻 Passionate about learning Web Development and Software Engineering.  
-🚀 Currently exploring **React** and improving my skills in **ASP.NET Core Web API**.
+**Full-Stack Developer** from Bosnia & Herzegovina, focused on building real-world web applications with modern tools. Currently exploring AI integration and embedded systems.
 
----
-
-### 🧠 Skills & Tools
-- 💡 Languages: Java, JavaScript, HTML, CSS, SQL
-- 🛠️ Tools: Visual Studio, Visual Studio Code, IntelliJ IDEA
-- 🌐 Currently learning: React.js, Git & GitHub
+I'm passionate about turning ideas into functional products — from concept to deployment. Always learning, always building.
 
 ---
 
-### 📚 Courses I've Completed
-- [HTML & CSS – Maximilian Schwarzmüller (Udemy)](https://www.udemy.com/user/maximilian-schwarzmuller/)
-- [JavaScript – Jonas Schmedtmann (Udemy)](https://www.udemy.com/user/jonasschmedtmann/)
-- Currently learning: React – Maximilian Schwarzmüller (Udemy)
+## 🔧 Tech Stack
+
+**Frontend:** React · Next.js · TypeScript · Tailwind CSS · HTML/CSS
+**Backend:** Node.js · Supabase (PostgreSQL) · Prisma ORM · REST APIs
+**AI Integration:** Google Gemini API · Prompt Engineering · Structured AI Outputs
+**Tools:** Git · GitHub · VS Code · Claude Code · Vercel · Vite
+**Also familiar with:** Java · SQL · C · Entity Framework
 
 ---
 
-### 📂 Projects
-Check out some of my pinned repositories below 👇  
-I focus on building clean, structured projects as I learn new technologies.
+## 🚀 Featured Projects
+
+### [AI CV Analyser](https://github.com/Kurtonoglu/AiCvAnalyser)
+AI-powered resume analysis tool that scores CVs across 5 categories, identifies missing sections, suggests improvements, and checks job match compatibility.
+**Stack:** React · Vite · Tailwind CSS · Google Gemini API · pdf.js
+**Live:** [Deployed on Vercel](https://ai-cv-analyser.vercel.app)
+
+### [BizDash AI](https://github.com/Kurtonoglu/bizdash-ai)
+Full-stack SaaS analytics dashboard with an AI chatbot that answers business questions by querying real data from a PostgreSQL database.
+**Stack:** Next.js · TypeScript · Prisma · Supabase · Gemini AI · Recharts
+
+### [Chersa](https://github.com/Kurtonoglu/chersa)
+Appointment booking system built for a local barber in Bosnia. Features SMS verification, smart time-slot logic (no double booking, no overflow past working hours), bilingual support (Bosnian/English), and an admin panel.
+**Stack:** React · Supabase · Twilio SMS · Vercel
+
+### [Doner](https://github.com/Kurtonoglu/Doner)
+Restaurant ordering interface built with Next.js 14 App Router and TypeScript. Code-reviewed and refactored with a senior-level audit approach for clean architecture and scalability.
+**Stack:** Next.js 14 · TypeScript · Tailwind CSS
 
 ---
 
-### 📫 How to reach me?
-- Email: nedim.kurtovic@fsk.unsa.ba
+## 🌱 Currently
+
+- Building full-stack projects with AI integration for my portfolio
+- Learning C and embedded systems (STM32) as a long-term interest
+- Looking for internship/junior opportunities in Full-Stack Development
+
+---
+
+## 📫 Contact
+
+- **Email:** nedimkurtovic0@gmail.com
+- **Location:** Bosnia & Herzegovina
